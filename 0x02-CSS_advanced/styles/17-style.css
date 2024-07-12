@@ -429,7 +429,7 @@ a:active {
 }
 
 .section {
-    padding: var(--section-padding);
+  padding: var(--section-padding);
 }
 
 .section-header {
@@ -447,11 +447,11 @@ a:active {
 }
 
 .section-title {
-    font-family: var(--font-family-title);
-    font-size: var(--font-size-xx-large);
-    font-weight: var(--font-weight-bold);
-    margin: var(--section-title-margin);
-    color: var(--section-title-color);
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-xx-large);
+  font-weight: var(--font-weight-bold);
+  margin: var(--section-title-margin);
+  color: var(--section-title-color);
 }
 
 .section-tagline {
@@ -462,11 +462,11 @@ a:active {
 }
 
 .container {
-    width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-footer {
+.footer {
   padding: var(--footer-padding);
 }
